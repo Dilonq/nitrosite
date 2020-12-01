@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-theme: jekyll-theme-slate
-name: Nitrosite
-=======
 theme: jekyll-theme-hacker
-name: nitrosite
->>>>>>> 410ffc14a58842acaeaa9d4d03e57e6cb827500a
+name: Nitrosite
 title: null
 
 pages:
