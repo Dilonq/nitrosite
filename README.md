@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Nitrotype Accounts For Sale
 
-You can use the [editor on GitHub](https://github.com/Dilonq/nitrosite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Where do I Buy?
+Contact watermellon10114@gmail.com to make a purchase. Purchases will be made using **only** *Nitrotype Cash*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Accounts
+We currently have these account(s) for sale:
+* [im_noob_101](https://www.nitrotype.com/racer/im_noob_101) : $150,000
+* [MaCoronaRacer](https://wwwnitrotypecomracerd64cb193c8dfec2fd1bd968a9074454d) : $400,000
+* [Riachu10114](https://www.nitrotype.com/racer/0a50828357fc1035dece1c7b51792aa9) : $100,000
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dilonq/nitrosite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Information
+For more information, either contact watermellon10114@gmail.com or join [this discord server](https://discord.gg/dfhR8mf8KR).
