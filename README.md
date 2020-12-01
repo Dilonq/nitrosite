@@ -10,4 +10,4 @@ We currently have these account(s) for sale:
 * [Riachu10114](https://www.nitrotype.com/racer/0a50828357fc1035dece1c7b51792aa9) : $100,000
 
 ### Information
-For more information, either contact watermellon10114@gmail.com or join [this discord server](https://discord.gg/dfhR8mf8KR).
+For more information, either contact watermellon10114@gmail.com or join [this discord server](https://discord.gg/yAsAWqUBER).
