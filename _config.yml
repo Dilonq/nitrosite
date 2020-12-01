@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+name: nitrosite
+title: null
+
+pages:
+  markdown:
+    extra: true
